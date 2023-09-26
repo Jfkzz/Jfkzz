@@ -1,7 +1,7 @@
 ###Bem Vindo ao meu perfil👋  
 
 Sou Fabricio Augusto Antunes estudante do ensino medio em busca de mais conhecimento tecnologia 
-![](https://www.animeunited.com.br/oomtumtu/2019/11/5.jp)
+![](https://www.animeunited.com.br/oomtumtu/2019/11/5.jpg)
 **Jfkzz/Jfkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
