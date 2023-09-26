@@ -1,6 +1,6 @@
 ###Bem Vindo ao meu perfil👋  
 
-Sou Fabricio Augusto Antunes estudante do ensino medio em busca de mais conhecimento tecnologia 
+Sou Fabricio Augusto Antunes estudante do ensino medio em busca de mais conhecimento sobre tecnologia
 ![](https://www.animeunited.com.br/oomtumtu/2019/11/5.jpg)
 **Jfkzz/Jfkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
