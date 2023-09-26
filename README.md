@@ -1,6 +1,7 @@
-###Bem Vindo ao meu perfil👋
+###Bem Vindo ao meu perfil👋  
 
-<!--
+Sou Fabricio Augusto Antunes estudante do ensino medio em busca de mais conhecimento tecnologia
+(https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.animeunited.com.br%2Fblog%2Fultimos-artigos%2F4-personagens-de-anime-que-usam-oculos-e-voce-precisa-saber%2F&psig=AOvVaw2GLFI2-BSwXKvXc0Ad4Y46&ust=1695852894591000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjN_L2myYEDFQAAAAAdAAAAABAD)
 **Jfkzz/Jfkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
